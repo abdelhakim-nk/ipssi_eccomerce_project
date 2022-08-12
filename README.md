@@ -1,1 +1,2 @@
-# ipssi_eccomerce_project
+# SNKRS Paris
+Site de e-commerce
