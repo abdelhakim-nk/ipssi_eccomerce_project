@@ -1,1 +1,1 @@
-# ipssu_eccomerce_project
+# ipssi_eccomerce_project
